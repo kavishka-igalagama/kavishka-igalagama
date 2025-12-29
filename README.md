@@ -22,12 +22,12 @@
 
 <!--- Counters -->
 <p align="center">
-  <a href="https://github.com/rom4nz/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=rom4nz&label=PROFILE+VIEWS&style=for-the-badge&color=red"/></a>
-  <a href="https://github.com/rom4nz?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rom4nz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/rom4nz?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rom4nz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/kavishka-igalagama/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=kavishka-igalagama&label=PROFILE+VIEWS&style=for-the-badge&color=red"/></a>
+  <a href="https://github.com/kavishka-igalagama?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kavishka-igalagama?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/kavishka-igalagama?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kavishka-igalagama?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 <!--- About me -->
@@ -124,16 +124,16 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate final year 
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rom4nz#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishka-igalagama#version3"/>
   </a>
 </p>
 
 <!--- Stats -->
 <h2>⭐ | Github Stats </h2>
 <div align="center">
-  <a href="https://github.com/rom4nz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rom4nz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rom4nz&layout=compact&langs_count=7&theme=default"/></a>
+  <a href="https://github.com/kavishka-igalagama">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavishka-igalagama&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka-igalagama&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 <br><br>
