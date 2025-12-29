@@ -123,9 +123,9 @@ Hello! I am Kavishka Sulochana Igalagama, a dedicated and passionate final year 
 <!--- contribution streak -->
 <h2>🔥| My contribution streak</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishka-igalagama#version3"/>
-  </a>
+ <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavishka-igalagama" alt="GitHub Streak" />
+ </a>
 </p>
 
 <!--- Stats -->
